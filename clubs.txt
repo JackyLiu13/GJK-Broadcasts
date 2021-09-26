@@ -1,0 +1,6 @@
+09:05am,Period 1,10:20am
+10:25am,Period 2,11:40am
+11:40am,Lunch,12:20pm
+12:20pm,Period 3,1:35pm
+01:40pm,Period 4,2:55pm
+03:00pm,Cross Country,4:00pm
